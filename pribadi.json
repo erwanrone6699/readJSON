@@ -1,5 +1,24 @@
-({
-  "Nama" : "Erwanto Imama Mahmudi",
-  "NIM" : "3133111010",
-  "Prodi" : "D3 MI A"
-});
+{
+    "Mahasiswa Manajemen Informatika": [
+        {
+            "Nama": "Erwanto Imam Mahmudi",
+            "NIM": "3133111010",
+            "Alamat" : "Yogyakarta"
+        },
+        {
+            "Nama": "Hanifah Jhanathul Khoir",
+            "NIM": "3133111079",
+            "Alamat" : "Kulon Progo"
+        },
+        {
+            "Nama": "Rizki Dewi Nur Indah Sari",
+            "NIM": "3133111039",
+            "Alamat" : "Kebumen"
+        },
+         {
+            "Nama": "Puspita Wahyu Santosa",
+            "NIM": "3133111036",
+            "Alamat" : "Wonogiri"
+        }
+    ]
+}
